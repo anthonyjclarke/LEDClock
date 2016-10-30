@@ -1,4 +1,4 @@
-# PongClock
+# PongClock_Temp
 Adaption of Nick’s Pong Clock & Brett Oliver's Adaption
 
 https://123led.wordpress.com/about/
@@ -27,3 +27,7 @@ and also, I found I outgrew a standard UNO so its running on a LEANARDO.  If any
 I've tried to document the code!
 
 A couple of bugs! Like the toggle between Tmp & Date is not right!
+
+And only a certain DHT Library worked!  Tried a few.
+
+Would love some help on tidying this up.
