@@ -31,3 +31,7 @@ A couple of bugs! Like the toggle between Tmp & Date is not right!
 And only a certain DHT Library worked!  Tried a few.
 
 Would love some help on tidying this up.
+
+Example :
+
+[![Alt text](/path/to/img.jpg?raw=true)][http://example.com/]
