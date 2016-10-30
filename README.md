@@ -34,4 +34,4 @@ Would love some help on tidying this up.
 
 Example :
 
-[![Alt text](/path/to/img.jpg?raw=true)][http://example.com/]
+![Animated gif](PongClock/PongClock_Temp.gif "Animation that shows auto completion")
