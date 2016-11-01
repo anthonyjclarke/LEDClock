@@ -34,4 +34,4 @@ Would love some help on tidying this up.
 
 Example :
 
-![Animated gif](/docs/PongClock_Temp.gif "Animation that shows auto completion")
+[](/docs/PongClock_Temp.gif "Animation that shows auto completion")
