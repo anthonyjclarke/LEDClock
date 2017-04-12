@@ -1,4 +1,4 @@
-# MatrixClock & Temp
+# LEDClock & Temp
 An Adaption of Nick’s Pong Clock & Brett Oliver's Adaption
 
 https://123led.wordpress.com/about/
