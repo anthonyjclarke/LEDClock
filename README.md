@@ -5,7 +5,7 @@ https://123led.wordpress.com/about/
 
 &
 
-http://home.btconnect.com/brettoliver1/Pong_Clock/Pong_Clock.htm - based on v7.5 code
+http://www.brettoliver.org.uk/Pong_Clock/Pong_Clock.htm - based on v7.5 code
 
 My Adaption is to display Temperature with a BMP180 attached on i2C (this is easy to change as there are numerous sensors out there)
 
